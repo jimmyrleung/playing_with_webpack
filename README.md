@@ -1,2 +1,2 @@
-# playing_with_webpack
+# Playing with Webpack
 A repository with some webpack examples
